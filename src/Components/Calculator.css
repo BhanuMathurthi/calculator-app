@@ -1,0 +1,12 @@
+.col-md-4{
+  background-image: linear-gradient(to top, #cfd9df 0%, #e2ebf0 100%);
+}
+
+button{
+  width: 100%;
+  background-color: rgb(2, 2, 53) !important;
+  color: white !important;
+  font-weight: bold !important;
+}
+
+table tr{border: none !important;}
